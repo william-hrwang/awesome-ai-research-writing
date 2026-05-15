@@ -1,5 +1,10 @@
 > Make AI Writing Better for Everyone
 
+## 🌐 Language
+
+- [中文](README.md)
+- [English](README.english.md)
+
 ## 📑 目录 (Table of Contents)
 
 ### Part I: 写作 Prompt 集合
